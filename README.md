@@ -4,6 +4,7 @@ The package use Golang program language send message to DingTalk
 这个包用 Golang 实现了发送信息到 钉钉机器人
 ```shell
 go get github.com/sober-wang/dingtalk
+go install dingtalk
 ```
 
 ```go
